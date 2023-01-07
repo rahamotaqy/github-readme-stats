@@ -102,7 +102,7 @@ Copy-paste this into your markdown content, and that is it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Raha's GitHub stats](https://github-readme-stats-w9zo.vercel.app/api?username=rahamotaqy)](https://github.com/anuraghazra/github-readme-stats)
+[![Raha's GitHub stats](https://github-readme-stats-w9zo.vercel.app/api?username=rahamotaqy)](https://github.com/rahamotaqy/github-readme-stats)
 ```
 
 > **Note**
